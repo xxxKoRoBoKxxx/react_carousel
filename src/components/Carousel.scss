@@ -1,13 +1,10 @@
 .container-tall {
-  width: 1300px;
   display: flex;
   flex-direction: row;
-  transform: translate(0px);
   font-size: 0;
 }
 
 .container-short {
-  width: 260px;
   overflow: hidden;
 }
 
